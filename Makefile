@@ -19,7 +19,7 @@ INCS :=
 SRCS := game.cpp
 
 # name of executable
-EXEC := test
+EXEC := Agario
 
 # generate object file names
 OBJS := $(SRCS:.cpp=.o)
